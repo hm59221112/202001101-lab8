@@ -24,4 +24,4 @@ return this.favoriteFood.equals("granola bars");
 public boolean fitsInCage(int cageLength){
 return this.length < cageLength;
 }
-}
+}}
